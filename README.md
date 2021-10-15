@@ -11,23 +11,27 @@ Used Libraries : react-scroll, react-animated-css, react-social-icons, react-spi
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/69370122/137413040-ffe11226-9863-4230-be41-50f094624e9b.gif)
 
 -------
+
 2. react-animated-css
 - Used React-animated-css to give animations to certain divs or images
 
 ![animate](https://user-images.githubusercontent.com/69370122/137413591-2ae6a8cf-1ab6-416b-9eea-c0a8da561dd0.gif)
 
-
+------
 
 4. react-social-icons
 - Used react-social icons to import some social icons such as LinkedIn, Github, Mail
 
-
 ![socialIcon](https://user-images.githubusercontent.com/69370122/137413476-27695232-37e6-4d54-bc2d-1d19b54c8df3.PNG)
+
+------
 
 5. react-spinners
 - Use react-spinners to make loading page.
 
+![loading](https://user-images.githubusercontent.com/69370122/137413876-bea3371c-127c-4b8b-89dc-7850734f7fd6.gif)
 
+------
 
 6. react-text-transition
 - Used react-text-transition for some cool effects on text
