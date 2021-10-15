@@ -11,3 +11,23 @@ ex)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/69370122/137413040-ffe11226-9863-4230-be41-50f094624e9b.gif)
 
 
+2. react-animated-css
+- Used React-animated-css to give animations to certain divs or images
+
+ex)
+
+
+4. react-social-icons
+- Used react-social icons to import some social icons such as LinkedIn, Github, Mail
+
+ex) 
+
+5. react-spinners
+- Use react-spinners to make loading page.
+
+ex) 
+
+6. react-text-transition
+- Used react-text-transition for some cool effects on text
+
+ex) 
