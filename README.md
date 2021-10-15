@@ -1,7 +1,7 @@
 # React-Portfolio
 Link: https://yeongbinkim-portfolio.netlify.app/
 
-Used Skills : HTML CSS Javascript React 
+Used Skills : HTML CSS Javascript React  <br />
 Used Libraries : react-scroll, react-animated-css, react-social-icons, react-spinners, styled-componenets, react-text-transition, react-router-dom
 
 ------
