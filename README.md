@@ -21,6 +21,7 @@ ex)
 - Used react-social icons to import some social icons such as LinkedIn, Github, Mail
 
 ex) 
+![socialIcon](https://user-images.githubusercontent.com/69370122/137413476-27695232-37e6-4d54-bc2d-1d19b54c8df3.PNG)
 
 5. react-spinners
 - Use react-spinners to make loading page.
