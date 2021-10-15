@@ -4,6 +4,8 @@ Link: https://yeongbinkim-portfolio.netlify.app/
 Used Skills : HTML CSS Javascript React 
 Used Libraries : react-scroll, react-animated-css, react-social-icons, react-spinners, styled-componenets, react-text-transition, react-router-dom
 
+------
+
 1. react-scroll
 - Used React-scroll library to move to specific element when click on nav-tab element.
 
@@ -36,4 +38,6 @@ Used Libraries : react-scroll, react-animated-css, react-social-icons, react-spi
 6. react-text-transition
 - Used react-text-transition for some cool effects on text
 
+![text1](https://user-images.githubusercontent.com/69370122/137413933-cefaa8e9-5dd0-4b72-9758-742db3493bb2.gif)
+![text2](https://user-images.githubusercontent.com/69370122/137413935-691e90eb-1a58-41b8-8a4b-851936272be1.gif)
 
