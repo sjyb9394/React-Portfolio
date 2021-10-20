@@ -3,6 +3,7 @@ Link: https://yeongbinkim-portfolio.netlify.app/
 
 Used Skills : HTML CSS Javascript React  <br />
 Used Libraries : react-scroll, react-animated-css, react-social-icons, react-spinners, styled-componenets, react-text-transition, react-router-dom
+----------
 
 - Designed and built a complete Portfolio Website as a Single Page Application by using React, and ES6 features.
 - Created a responsive website using styled-components and media query.
